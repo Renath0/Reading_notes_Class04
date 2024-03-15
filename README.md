@@ -13,13 +13,14 @@ HTML, es un acrónimo cuyo significaod es HyperText Markup Language (Lenguaje de
 
   1. **Etiqueta de apertura:** Define el tipo de elemento que se está utilizando, como por ejemplo:
 ```
-<p> para un párrafo,
-<a> para un enlace,
-<img> para una imagen
+<p> para un párrafo.
+<a> para un enlace.
+<img> para una imagen.
 ```
   2. **Contenido:** Es la información dentro del elemento HTML, que puede incluir texto, otros elementos HTML, imágenes, enlaces, etc. Por ejemplo:
-<p>Este es un párrafo</p>, "
- 
+```
+<p> Este es un párrafo </p>
+```
   3. **Etiqueta de cierre:** Se utiliza para cerrar el elemento que se abrió anteriormente. Tiene el mismo nombre que la etiqueta de apertura, pero con la diferencia de que se agrega una barra inclinada ("/"). 
 Por ejemplo:
 ```
